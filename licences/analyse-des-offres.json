@@ -1,0 +1,9 @@
+{
+ "numero": 8,
+ "date": "2026-10-11",
+ "desactivees": [
+  "58a23a23d3a6fc79",
+  "d5f145b44f537d4b"
+ ],
+ "signature": "a54b9bd92e73d7a744c51a72d725514cf9104a951fcfcc1fd0ddc6f7f8ae5a91983f87dc8953d0abf5d95f498ffb0ea593610352505f011f49b7dedbeb41b708"
+}
