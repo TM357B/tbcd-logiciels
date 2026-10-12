@@ -1,9 +1,8 @@
 {
- "numero": 10,
- "date": "2026-10-11",
+ "numero": 11,
+ "date": "2026-10-12",
  "desactivees": [
-  "58a23a23d3a6fc79",
-  "d5f145b44f537d4b"
+  "58a23a23d3a6fc79"
  ],
- "signature": "2b0bd7dfabfd8130508dbf1a55dbe058068b32da6ad86d09199a1dd7487fbc67bd77f783d889b8ba43aa1acbeaa5af000357bc95b68c06ce10e59439a0afec0d"
+ "signature": "8b0ce7a06ac1664ca6ed4c35cdfdfaa4b51340792faee923f3bd20efd1b49a216d0783892703887a8003e14d5692178aafd05c6ebf9f730c85daaf27117caa0d"
 }
