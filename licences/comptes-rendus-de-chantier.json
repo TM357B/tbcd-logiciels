@@ -1,11 +1,14 @@
 {
- "numero": 1,
+ "numero": 2,
  "date": "2026-10-13",
  "desactivees": [],
  "postes": {
   "d7550ac160f53beb": [
    "YHP4EWKMAD"
+  ],
+  "3cfae335092b7624": [
+   "FTCY5ZHHPM"
   ]
  },
- "signature": "f79ba1bd2ac8b219e96c56ea5c283894064a60992e2706c092807a695c4c47890a1443d780fdfae67b381c11d48be01f5bcfc2f049fd22ab31871a24c31ce304"
+ "signature": "75a000f5a067f8c114cd38b53663fb1d9a21eb68b8ea09ceb0b8e91e5ca23242f6724bdf4a694faa81efd4df1b8a6aeb847b62bc766886455410dc61a7fa6d09"
 }
